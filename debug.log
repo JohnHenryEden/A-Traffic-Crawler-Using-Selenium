@@ -1,0 +1,10 @@
+[0411/215241.747:ERROR:process_info.cc(625)] range at 0xce8737d200000000, size 0x196 fully unreadable
+[0411/215241.749:ERROR:process_info.cc(625)] range at 0xce8737f200000000, size 0x196 fully unreadable
+[0411/215241.749:ERROR:process_info.cc(625)] range at 0x0, size 0x196 fully unreadable
+[0417/192234.188:ERROR:process_reader_win.cc(114)] NtOpenThread: {无法访问} 过程已请求访问一对象，但未给访问权限。  (0xc0000022)
+[0417/192234.191:ERROR:exception_snapshot_win.cc(87)] thread ID 11928 not found in process
+[0417/192234.191:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::Initialize failed
+[0420/092859.266:ERROR:prune_crash_reports.cc(35)] PruneCrashReportDatabase: Failed to get pending reports
+[0513/151232.230:ERROR:process_reader_win.cc(114)] NtOpenThread: {无法访问} 过程已请求访问一对象，但未给访问权限。  (0xc0000022)
+[0513/151232.234:ERROR:exception_snapshot_win.cc(87)] thread ID 13856 not found in process
+[0513/151232.234:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::Initialize failed
